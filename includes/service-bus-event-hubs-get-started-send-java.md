@@ -3,12 +3,12 @@
 The Java client library for Event Hubs is available for use in Maven projects from the Maven Central Repository, and can be referenced using the
 following dependency declaration inside of your Maven project file:    
 
-```XML
-    <dependency> 
-   		<groupId>com.microsoft.azure</groupId> 
-   		<artifactId>azure-eventhubs-clients</artifactId> 
-   		<version>0.6.0</version> 
-   	</dependency>   
+``` XML
+<dependency> 
+    <groupId>com.microsoft.azure</groupId> 
+    <artifactId>azure-eventhubs-clients</artifactId> 
+    <version>0.6.0</version> 
+</dependency>   
  ```
  
 For different types of build environments, the latest released JAR files can also be [explicitly obtained from the 
