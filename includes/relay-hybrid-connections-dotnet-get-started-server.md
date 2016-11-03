@@ -6,7 +6,7 @@
 
 1. Right-click the newly created project and select **Manage NuGet Packages**.
 
-2. Click the **Browse** tab, then search for "Microsoft Azure Relay" and select the **Microsoft Azure Relay** item. Click **Install** to complete the installation, then close this dialog box.
+2. Click the **Browse** tab, then search for "Microsoft.Azure.Relay" and select the **Microsoft Azure Relay** item. Ensure you have the "preview" option selected to find the correct assembly; do not use "Microsoft.ServiceBus". Click **Install** to complete the installation, then close this dialog box.
 
 ### Write some code to receive messages
 
